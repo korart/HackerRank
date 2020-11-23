@@ -18,8 +18,6 @@ public class Solution {
         int numberOfTicketWindows = Integer.parseInt(s.split(" ")[1]);
         int numberOfDestinations = Integer.parseInt(s.split(" ")[2]);
 
-        System.out.println(numberOfPeople);
-        System.out.println(numberOfTicketWindows);
-        System.out.println(numberOfDestinations);
+        System.out.printf("people: %d, ticket windows: %d, destinations: %d%n", numberOfPeople, numberOfTicketWindows, numberOfDestinations);
     }
 }
