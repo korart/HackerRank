@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaLoopsII;
+package Practice.Java.Introduction.JavaLoopsII;
 
 import java.util.*;
 import java.io.*;

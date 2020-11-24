@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaIntToString;
+package Practice.Java.Introduction.JavaIntToString;
 
 import java.util.*;
 import java.security.*;

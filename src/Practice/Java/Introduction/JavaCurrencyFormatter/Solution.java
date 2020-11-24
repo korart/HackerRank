@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaCurrencyFormatter;
+package Practice.Java.Introduction.JavaCurrencyFormatter;
 
 import java.util.*;
 import java.text.*;

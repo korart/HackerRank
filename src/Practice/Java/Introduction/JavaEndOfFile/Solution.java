@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaEndOfFile;
+package Practice.Java.Introduction.JavaEndOfFile;
 
 import java.io.*;
 import java.util.*;

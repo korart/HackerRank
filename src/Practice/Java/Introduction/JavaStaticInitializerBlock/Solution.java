@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaStaticInitializerBlock;
+package Practice.Java.Introduction.JavaStaticInitializerBlock;
 
 import java.io.*;
 

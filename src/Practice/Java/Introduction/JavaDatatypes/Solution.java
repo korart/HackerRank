@@ -1,4 +1,4 @@
-package Practice.JavaIntroduction.JavaDatatypes;
+package Practice.Java.Introduction.JavaDatatypes;
 
 import java.util.*;
 import java.io.*;
